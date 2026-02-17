@@ -4,6 +4,8 @@ The purpose of this project is to practice and reinforce Java fundamentals befor
 
 What This Project Covers
 
+Basic microservices setup
+
 This project includes programs that demonstrate:
 
 Conditional statements
